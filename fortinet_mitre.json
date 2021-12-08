@@ -1,0 +1,2 @@
+{"event.id": "0419016384", "technique.id": "T1190", "tactic": ["initial access"], "technique.name": "Exploit Public-Facing Application", "x_mitre_is_subtechnique": "False"}
+
